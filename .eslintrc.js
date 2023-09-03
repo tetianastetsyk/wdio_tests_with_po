@@ -26,7 +26,6 @@ module.exports = {
         ecmaVersion: 'latest',
     },
     rules: {
-        'class-methods-use-this': 'off',
         indent: [
             'error',
             4,
